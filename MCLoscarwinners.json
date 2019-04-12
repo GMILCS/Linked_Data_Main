@@ -1,0 +1,38 @@
+{
+  {
+    "label": "2019 Oscar Winners",
+    "description": "Oscar Winners At Your Library!",
+    "filters": [
+      "Movie"
+    ],
+    "resources": [
+      //A Star is Born DVD
+      "sN0Af-VDEF0",
+      //A Star is Born Blue-ray
+      "iMSXaiDTWSs",
+      //Black Panther
+      "xUUqdLR19lU",
+      //Blackkklansman
+      "0qYg8UpRWUg",
+      //Bohemian Rhapsody
+      "ft3vTTp9Mrs",
+      //Bohemian Rhapsody Blue-ray
+      "SZesvxgryxQ",
+      //First Man
+      "6VaLAtF5Slk",
+      //Free Solo
+      "CzmScNVlrME",
+      // Green Book
+      "DoOU82NCcJ0",
+      //If Beale Street Could Talk
+      "54URfMNztjM",
+      //Spider-man: into the Spider-verse
+      "3NmXfQ6fHsc",
+      //The Favourite Blue-ray
+      "NCl0GUYjtC0"
+
+    ]
+  }
+
+
+}
