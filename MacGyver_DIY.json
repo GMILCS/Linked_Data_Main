@@ -1,4 +1,4 @@
-{
+
   {
     "label": "DIY Display",
     "description": "Do It Yourself @ Your Library!",
@@ -6,17 +6,12 @@
       "Movie"
     ],
     "resources": [
-      //MacGuyver DVD
       "GuCxqshTJs8",
-      //Dwellings-Maintenance and Repair
       "DQPtRy47wZc",
-      //Dwellings-Maintenance and Repair Fiction
       "u_5aT-D8o8g",
-      //Repairing
       "Z1UfJMBQR4s",
-      //Furniture making
       "6zv9bk1xdkw"
 
     ]
   }
-}
+
