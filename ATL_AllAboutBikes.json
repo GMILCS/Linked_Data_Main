@@ -1,10 +1,7 @@
-  {
-    "label": "All About Bikes",
-    "description": "Amherst Library All About Bikes",
-    "filters": [
-      "Item list"
-    ],
-    "resources": [
+{
+	"label": "All About Bikes",
+	"description": "Amherst Town Library All About Bikes",
+	"isbns": [
       "9780451482112",
       "9780706374209",
       "9780743225236",
