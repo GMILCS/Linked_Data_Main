@@ -1,10 +1,7 @@
-  {
-    "label": "Memorial Day",
-    "description": "Amherst Library Memorial Day",
-    "filters": [
-      "Item list"
-    ],
-    "resources": [
+{
+	"label": "Memorial Day",
+	"description": "Amherst Library Memorial Day",
+	"isbns": [      
       "9780062329318",
       "9780140288506",
       "9780152016555",
