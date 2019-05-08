@@ -2,7 +2,7 @@
     "label": "Cyberpunk 2019",
     "description": "Manchester City Library Cyberpunk",
     "filters": [
-      "Item list"
+      "ISBNs"
     ],
     "resources": [
       "9780060575502",
