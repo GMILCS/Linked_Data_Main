@@ -1,10 +1,7 @@
   {
     "label": "Thinking Better",
     "description": "Thinking Better @ Your Library!",
-    "filters": [
-      "concept"
-    ],
-    "resources": [
+    "concepts": [
       "JyJrEyAobKg",
       "O6vVpEbUpcI"	
 
