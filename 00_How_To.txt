@@ -48,12 +48,22 @@ Construction Tools
 	Check with JSON-LD 
 	Upload
 	You can create your own Github account for speed
-	Your URL
-	https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
-	Zepheira URL
-	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=
-	Merge
-	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+
+-Now take
+
+	Zepheira's MIX URL
+	http://collections.library.link/services/mixer/?domain=
+	
+	Your library's linked data URL with &mix
+	http://link.manchesterlibrary.org/&mix=
+
+	Your MIX's RAW address on Github
+	https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+
+	Merge all three together, in this order, without spaces
+	http://collections.library.link/services/mixer/?domain=http://link.manchesterlibrary.org/&mix=https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+
+
 	Wait
 
 ---LISTS
@@ -65,13 +75,23 @@ Construction Tools
 	Check with JSON-LD 
 	Upload
 	You can create your own Github account for speed
-	Your URL
+
+-Now take
+
+	Zepheira's URL
+	http://collections.library.link/services/lister/?domain=
+
+	Your library's linked data URL
+	http://link.manchesterlibrary.org/&list=
+
+	Your list's RAW address on Github
 	https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
-	Zepheira URL
-	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=
-	Merge
+
+	Merge all three together, in this order, without spaces
 	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
-	Wait
+
+
+	Wait a bit
 
 
 
