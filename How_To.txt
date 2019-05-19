@@ -1,0 +1,77 @@
+---Tools
+Here is a template you can work with:
+
+{
+    "label": "Your text here",
+    "description": "Your text here”,
+    "resources": [
+      "ID_Here",
+      "ID_Here",
+      "ID_Here"                    
+    ]
+}
+
+
+Construction Tools
+
+	Notepad will work but there are a lot of utilities out there to make this easier because they will enforce good syntax and differentiate elements with color.
+	Visual Studio community https://visualstudio.microsoft.com/vs/community/
+	Notepad++ https://notepad-plus-plus.org/
+	Sublime Text https://www.sublimetext.com/
+	Check to insure there are no errors at https://json-ld.org/playground/
+
+
+
+
+---MIXES	
+	Video Tutorial https://www.youtube.com/watch?v=YBqaJ9V-vMI
+
+	Types of resource types to be used in a mix and prevent hiccups with your JSON files.
+		Agent
+		Collection
+		Concept
+		CopyrightEvent
+		Family
+		Form
+		Meeting
+		Organization
+		Person
+		Place
+		ProviderEvent
+		Series
+		Temporal
+		Topic
+	Navigate
+	Gather IDs
+	NOTEPAD
+	Braces, brackets, commas
+	Check with JSON-LD 
+	Upload
+	You can create your own Github account for speed
+	Your URL
+	https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+	Zepheira URL
+	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=
+	Merge
+	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+	Wait
+
+---LISTS
+	Video tutorial https://youtu.be/HOv0qRkNFY0
+	
+	Gather ISBNs
+	NOTEPAD
+	Braces, brackets, commas
+	Check with JSON-LD 
+	Upload
+	You can create your own Github account for speed
+	Your URL
+	https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+	Zepheira URL
+	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=
+	Merge
+	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+	Wait
+
+
+
