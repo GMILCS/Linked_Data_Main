@@ -48,4 +48,72 @@
         "label":"Infinite Detail",
         "isbns": [
         "9780374175412"
+        ]
+        },
+        {
+        "label":"Accelerando",
+        "isbns": [
+         "9780441012848"
+        ]
+        },
+        {
+        "label":"Daemon : a novel",
+        "isbns": [
+         "9780525951117"
+        ]
+        },
+        {
+        "label":"Influx",
+        "isbns": [
+        "9780525953180",
+        "9781629232805"
+        ]
+        },
+        {
+        "label":"Snow Crash",
+        "isbns": [
+         "9780553898194"
+        ]
+        },
+        {
+        "label":"Down and out in the Magic Kingdom ",
+        "isbns": [
+        "9780765304360"
+        ]
+        },
+        {
+        "label":"Count Zero",
+        "isbns": [
+        "9780877957690",
+        "0441013678"
+        ]
+        },
+        {
+        "label":"Otherland: City of Gold Shadow",
+        "isbns": [
+        "9780886777104"
+        ]
+        },
+        {
+        "label":"Hell Divers Trilogy Book 1",
+        "isbns": [
+        "9781504710350",
+        "9781504725866"
+        ]
+        },
+        {
+        "label":"Akira. Book one",
+        "isbns": [
+        "9781569714980"
+        ]
+        },
+        {
+        "label":"The Windup Girl",
+        "isbns": [
+        "9781597801577",   
+        "9781597802369"
+        ]
+        }        
+    ]
+  }
 
