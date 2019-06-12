@@ -1,0 +1,133 @@
+{
+  "label": "Magical Academy",
+  "description": "Fantasy books where the main character must go to school to learn about their magic.",
+  "list": [
+    {
+      "label": "All the birds in the sky, Charlie Jane Anders",
+      "isbns": [
+        "9780765379948",
+        "9780765379948",
+        "9781466871120"
+      ]
+    },
+    {
+      "label": "Blue exorcist. 1, Kazue Kato",
+      "isbns": [
+        "9781421540320"
+      ]
+    },
+    {
+      "label": "Carry on, Rainbow Rowell",
+      "isbns": [
+        "9781427262028",
+        "9781250049551"
+      ]
+    },
+    {
+      "label": "The Demon Lover, Juliet Dark",
+      "isbns": [
+        "9780345526274"
+      ]
+    },
+    {
+      "label": "Etiquette & espionage, Gail Carriger",
+      "isbns": [
+        "9780316190084",
+        "9781619699205"
+      ]
+    },
+    {
+      "label": "Foundation : a novel of Valdemar, Mercedes Lackey",
+      "isbns": [
+        "9780756405243"
+      ]
+    },
+    {
+      "label": "Hell Week, Rosemary Clement-Moore",
+      "isbns": [
+        "9780375891199"
+      ]
+    },
+    {
+      "label": "The magicians, Lev Grossman",
+      "isbns": [
+        "9780670020553",
+        "9780143144397",
+        "9781415962466",
+        "9781101080603"
+      ]
+    },
+    {
+      "label": "Magic's pawn, Mercedes Lackey",
+      "isbns": [
+        "9781101121412"
+      ]
+    },
+    {
+      "label": "Miss Peregrine's Home for Peculiar Children, Ransom Riggs",
+      "isbns": [
+        "9780449013854",
+        "9781594745133",
+        "9780307913029"
+      ]
+    },
+    {
+      "label": "The name of the wind : the kingkiller chronicle : day one, Patrick Rothfuss",
+      "isbns": [
+        "9781429534819"
+      ]
+    },
+    {
+      "label": "The Naming, Alison Croggon",
+      "isbns": [
+        "9780763652517"
+      ]
+    },
+    {
+      "label": "The novice, Taran Matharu",
+      "isbns": [
+        "9781250080059"
+      ]
+    },
+    {
+      "label": "The Rithmatist, Brandon Sanderson",
+      "isbns": [
+        "9781427235572"
+      ]
+    },
+    {
+      "label": "Sabriel, Garth Nix",
+      "isbns": [
+        "9780739329771",
+        "9780060273224"
+      ]
+    },
+    {
+      "label": "Unseen academicals : a novel of Discworld, Terry Pratchett",
+      "isbns": [
+        "9780061967337"
+          ]
+    },
+    {
+      "label": "Uprooted, Naomi Novik",
+      "isbns": [
+        "9780804179034",
+        "9780553410099",
+        "9780804179041"
+      ]
+    },
+    {
+      "label": "Vita nostra, by Marina and Sergey Dyachenko",
+      "isbns": [
+        "9780062694591"
+      ]
+    },
+    {
+      "label": "A wizard of Earthsea, by Ursula K. Le Guin",
+      "isbns": [
+        "9781574535587",
+        "9780544084377"
+      ]
+    }
+  ]
+}
