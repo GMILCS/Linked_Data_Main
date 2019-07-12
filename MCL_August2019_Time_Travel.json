@@ -1,7 +1,7 @@
 {
     "label": "Time Travel",
     "description": "Science-Fiction books that involve traveling through time to the future or past!",
-    "resources": [
+    "list": [
 {
 "label":"11/22/63: A Novel",
 "isbns": [
