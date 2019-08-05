@@ -23,10 +23,14 @@ Construction Tools
 
 
 
----MIXES	
-	Video Tutorial https://www.youtube.com/watch?v=YBqaJ9V-vMI
+---MIXES
 
-	Types of resource types to be used in a mix and prevent hiccups with your JSON files.
+
+	Video Tutorial https://www.youtube.com/watch?v=YBqaJ9V-vMI
+	
+***Individual IDs for items cannot be used.  Please stick to the below....
+
+Types of resource types to be used in a mix and prevent hiccups with your JSON files.
 		Agent
 		Collection
 		Concept
@@ -50,6 +54,8 @@ Construction Tools
 	You can create your own Github account for speed
 
 -Now take
+
+***Only 13 digit ISBNs can currently be used***
 
 	Zepheira's MIX URL
 	http://collections.library.link/services/mixer/?domain=
