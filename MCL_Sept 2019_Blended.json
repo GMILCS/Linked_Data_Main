@@ -1,0 +1,112 @@
+{
+    "label": "Blended Sci-Fi/Fantasy",
+    "description": "Sci-Fi and Fantasy books that blend elements of each genre together!",
+    "list": [
+        {
+            "label": "Beauty: a novel",
+            "isbns": [
+                "9780385419390"
+            ]
+        },
+        {
+            "label": "Darth Bane: path of destruction: a novel of the Old Republic",
+            "isbns": [
+                "9780345477361"
+            ]
+        },
+        {
+            "label": "Deathstalker: being the first part of the life and times of Owen Deathstalker",
+            "isbns": [
+                "9781625672070"
+            ]
+        },
+        {
+            "label": "Dies the fire",
+            "isbns": [
+                "9780451459794"
+            ]
+        },
+        {
+            "label": "Dune",
+            "isbns": [
+                "9781436233286",
+                "9780441013593"
+            ]
+        },
+        {
+            "label": "Embassytown",
+            "isbns": [
+                "9780345524515",
+                "9780307913814"
+            ]
+        },
+        {
+            "label": "The Eyre Affair",
+            "isbns": [
+                "9781101158517",
+                "9780670030644"
+            ]
+        },
+        {
+            "label": "The golden compass",
+            "isbns": [
+                "9780807204719",
+                "9780679879244",
+                "9780739345122",
+                "9780440418603"
+            ]
+        },
+        {
+            "label": "I am number four",
+            "isbns": [
+                "9780061969553",
+                "9780062041357",
+                "9780062007995"
+            ]
+        },
+        {
+            "label": "Interworld",
+            "isbns": [
+                "9780061475849"
+            ]
+        },
+        {
+            "label": "Jaran: a novel of the Jaran",
+            "isbns": [
+                "9781480435223"
+            ]
+        },
+        {
+            "label": "Lord Valendine's castle",
+            "isbns": [
+                "9780060140267"
+            ]
+        },
+        {
+            "label": "Otherland: City of golden shadow",
+            "isbns": [
+                "9780886777104"
+            ]
+        },
+        {
+            "label": "The shadow of the torturer",
+            "isbns": [
+                "9780671253257"
+            ]
+        },
+        {
+            "label": "The Stand",
+            "isbns": [
+                "9780307987587",
+                "9780385528856"
+            ]
+        },
+        {
+            "label": "The Steel Remains",
+            "isbns": [
+                "9780345493033"
+            ]
+        }
+    ]
+}
+       
